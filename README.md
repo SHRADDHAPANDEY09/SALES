@@ -34,4 +34,5 @@ Built as part of the Satish Dhawale SkillCourse focused on Excel dashboards and 
 
  Outcome
 
-Strengthened my skills in data visualization, KPI reporting, dashboard design, and transforming raw data into meaningful business insights.
+Strengthened my skills in data visualization, KPI reporting, dashboard design, and transforming raw data into meaningful business insights. here is screenshot of my project<img width="1621" height="704" alt="image" src="https://github.com/user-attachments/assets/ea1d3e7d-8fe1-4df4-a7db-cf338218bdd8" />
+
